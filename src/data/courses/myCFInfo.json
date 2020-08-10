@@ -1,0 +1,136 @@
+{
+  "data": {
+    "email": "raul.eduardo.aguirre@gmail.com",
+    "username": "Ysp0lur",
+    "certificates": [
+      {
+        "score": 10,
+        "code": "36484bfc-bf05-4862-9dda-eb1ddd13a78e",
+        "title": "Curso Profesional de JavaScript"
+      },
+      {
+        "score": 10,
+        "code": "3ebf360a-4c0b-4422-995c-a365fe1e05c2",
+        "title": "Curso Profesional de React"
+      },
+      {
+        "score": 10,
+        "code": "3ebf360a-4c0b-4422-995c-a365fe1e05c2",
+        "title": "Curso de TypeScript"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso para desarrollo de apps con React Native",
+        "progress": "71.0",
+        "url": "http://codigofacilito.com/courses/react-native"
+      },
+      {
+        "title": "Curso de programación funcional en Java",
+        "progress": "81.0",
+        "url": "http://codigofacilito.com/courses/java-programacion-funcional"
+      },
+      {
+        "title": "Curso profesional de Angular",
+        "progress": "83.0",
+        "url": "http://codigofacilito.com/courses/angular-profesional"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "progress": "98.0",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Curso Profesional de JAVA",
+        "progress": "90.0",
+        "url": "http://codigofacilito.com/courses/java-profesional"
+      },
+      {
+        "title": "Curso de Estructuras de Datos con JAVA",
+        "progress": "98.0",
+        "url": "http://codigofacilito.com/courses/estructuras-java"
+      },
+      {
+        "title": "Curso de Patrones de Diseño con JAVA",
+        "progress": "96.0",
+        "url": "http://codigofacilito.com/courses/patrones-diseno"
+      },
+      {
+        "title": "Curso de Java EE",
+        "progress": "90.0",
+        "url": "http://codigofacilito.com/courses/java-ee"
+      },
+      {
+        "title": "Promesas en javaScript",
+        "progress": "90.0",
+        "url": "http://codigofacilito.com/courses/javascript-promises"
+      },
+      {
+        "title": "Curso de noSQL con MongoDB",
+        "progress": "90.0",
+        "url": "http://codigofacilito.com/courses/nosql-moongodb"
+      },
+      {
+        "title": "Curso para desarrollar servicios web REST con Nodejs",
+        "progress": "91.0",
+        "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+      },
+      {
+        "title": "Curso Profesional de Python",
+        "progress": "91.0",
+        "url": "http://codigofacilito.com/courses/python-profesional"
+      },
+      {
+        "title": "Pruebas automatizadas en Python",
+        "progress": "99.0",
+        "url": "http://codigofacilito.com/courses/python-testing"
+      },
+      {
+        "title": "Curso de programación concurrente en Python",
+        "progress": "92.0",
+        "url": "http://codigofacilito.com/courses/python-concurrente"
+      },
+      {
+        "title": "Curso del lenguaje Dart",
+        "progress": "80.0",
+        "url": "http://codigofacilito.com/courses/dart"
+      },
+      {
+        "title": "Curso intermedio de Flutter",
+        "progress": "85.0",
+        "url": "http://codigofacilito.com/courses/flutter-intermedio"
+      },
+      {
+        "title": "Curso de Flutter con Firebase",
+        "progress": "80.0",
+        "url": "http://codigofacilito.com/courses/flutter-crud-firebase"
+      },
+      {
+        "title": "Curso Profesional de Base de Datos",
+        "progress": "95.0",
+        "url": "http://codigofacilito.com/courses/base-datos-profesional"
+      },
+      {
+        "title": "Curso de introducción al análisis de datos con Python",
+        "progress": "94.0",
+        "url": "http://codigofacilito.com/courses/analisis-datos-python"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso de TypeScript",
+        "url": "http://codigofacilito.com/courses/typescript"
+      },
+      {
+        "title": "Curso Profesional de JavaScript",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      },
+      {
+        "title": "Curso Profesional de React",
+        "url": "http://codigofacilito.com/courses/react-profesional"
+      }
+    ]
+  },
+  "errors": []
+}
